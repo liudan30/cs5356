@@ -11,3 +11,6 @@ For a foreigner or non-local, he might need a good way to befriend someone local
 
 ### Repository
 [Wanderluster](https://github.com/liudan30/Wanderluster)
+
+### Project Management Tool
+Find Our First Story Here: [Trello](https://trello.com/b/OzWnuC0M/wanderluster)
